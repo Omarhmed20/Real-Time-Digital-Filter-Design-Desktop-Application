@@ -1,1 +1,1 @@
-# Real-Time-Digital-Filter-Design-Desktop-Application
+# Real Time Digital Filter Design Desktop Application
